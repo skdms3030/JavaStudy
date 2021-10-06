@@ -1,7 +1,7 @@
 package chapter3;
 
 public class Exercise3_8 {
-
+	//코드 오류찾아서 수정하기
 	public static void main(String[] args) {
 		byte a = 10;
 		byte b = 20;

@@ -1,7 +1,7 @@
 package chapter4;
 
 public class Exercise4_3 {
-
+	//1+(1+2)+(1+2+3)+(1+2+3+4)+...+(1+2+3+...+10)ÀÇ ÃÑÇÕ
 	public static void main(String[] args) {
 		int i;
 		int hap1=0;

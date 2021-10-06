@@ -1,7 +1,7 @@
 package chapter3;
 
 public class Exercise3_1 {
-
+	//연산결과 확인
 	public static void main(String[] args) {
 		int x = 2;
 		int y = 5;
